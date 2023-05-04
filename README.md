@@ -48,5 +48,5 @@
 
 <div align=center>
 <h3>📱 App View 📱</h3>
-  <img style="width:50%" src="https://github.com/Jeong-HanGyeol/ToDoList/blob/main/ToDoList.gif" />
+  <img style="width:90%" src="https://github.com/Jeong-HanGyeol/ToDoList/blob/main/ToDoList.gif" />
 </div>
