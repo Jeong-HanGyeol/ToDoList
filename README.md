@@ -1,6 +1,5 @@
 <div align=center>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=To-DoList&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=To-DoList&fontSize=60" />
 </div>
 
 <div align=center>
@@ -49,5 +48,5 @@
 
 <div align=center>
 <h3>📱 App View 📱</h3>
-  <img style="width:50%" src="" />
+  <img style="width:50%" src="https://github.com/Jeong-HanGyeol/ToDoList/blob/main/ToDoList.gif" />
 </div>
