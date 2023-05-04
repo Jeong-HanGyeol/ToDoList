@@ -1,5 +1,6 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=To-Do List&fontSize=70" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=계산기앱&fontSize=90" />
 </div>
 
 <div align=center>
